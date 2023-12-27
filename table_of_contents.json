@@ -1,0 +1,346 @@
+{
+    "1.": {
+        "title": "Sentence Embedding Optimizer",
+        "url": "No  URL"
+    },
+    "2.": {
+        "title": "Cohere Rerank",
+        "url": "No  URL"
+    },
+    "3.": {
+        "title": "LLM Reranker Demonstration (2021 Lyft 10-k)",
+        "url": "No  URL"
+    },
+    "4.": {
+        "title": "LLM Reranker Demonstration (Great Gatsby)",
+        "url": "No  URL"
+    },
+    "5.": {
+        "title": "Recency Filtering",
+        "url": "No  URL"
+    },
+    "6.": {
+        "title": "Time-Weighted Rerank",
+        "url": "No  URL"
+    },
+    "c.": {
+        "title": "Chat Engine",
+        "url": "No  URL"
+    },
+    "d.": {
+        "title": "Toggle child pages in navigation",
+        "url": "No  URL"
+    },
+    "i.": {
+        "title": "Guardrails Output Parsing",
+        "url": "No  URL"
+    },
+    "ii.": {
+        "title": "Langchain Output Parsing",
+        "url": "No  URL"
+    },
+    "iii.": {
+        "title": "Guidance Pydantic Program",
+        "url": "No  URL"
+    },
+    "iv.": {
+        "title": "Guidance for Sub-Question Query Engine",
+        "url": "No  URL"
+    },
+    "v.": {
+        "title": "OpenAI Pydantic Program",
+        "url": "No  URL"
+    },
+    "vi.": {
+        "title": "Lower-Level Agent API",
+        "url": "No  URL"
+    },
+    "7.": {
+        "title": "PII Masking",
+        "url": "No  URL"
+    },
+    "8.": {
+        "title": "Forward/Backward Augmentation",
+        "url": "No  URL"
+    },
+    "9.": {
+        "title": "Metadata Replacement + Node Sentence Window",
+        "url": "No  URL"
+    },
+    "10.": {
+        "title": "LongContextReorder",
+        "url": "No  URL"
+    },
+    "vii.": {
+        "title": "DashVector Vector Store",
+        "url": "No  URL"
+    },
+    "viii.": {
+        "title": "DeepLake Vector Store",
+        "url": "No  URL"
+    },
+    "11.": {
+        "title": "Custom Retriever (KG Index and Vector Store Index)",
+        "url": "No  URL"
+    },
+    "12.": {
+        "title": "Knowledge Graph RAG Retriever",
+        "url": "No  URL"
+    },
+    "13.": {
+        "title": "Recursive Retriever + Query Engine Demo",
+        "url": "No  URL"
+    },
+    "l.": {
+        "title": "Toggle child pages in navigation",
+        "url": "No  URL"
+    },
+    "m.": {
+        "title": "Node Postprocessor",
+        "url": "No  URL"
+    },
+    "x.": {
+        "title": "DocArray InMemory Vector Store",
+        "url": "No  URL"
+    },
+    "14.": {
+        "title": "Recursive Retriever + Node References",
+        "url": "No  URL"
+    },
+    "15.": {
+        "title": "Recursive Retriever + Node References + Braintrust",
+        "url": "No  URL"
+    },
+    "16.": {
+        "title": "Router Retriever",
+        "url": "No  URL"
+    },
+    "17.": {
+        "title": "Ensemble Retrieval Guide",
+        "url": "No  URL"
+    },
+    "18.": {
+        "title": "Google Generative Language Semantic Retriever",
+        "url": "No  URL"
+    },
+    "19.": {
+        "title": "Structured Hierarchical Retrieval",
+        "url": "No  URL"
+    },
+    "20.": {
+        "title": "Google Generative Language Semantic Retriever",
+        "url": "No  URL"
+    },
+    "21.": {
+        "title": "Vectara Managed Index",
+        "url": "No  URL"
+    },
+    "22.": {
+        "title": "Managed Index with Zilliz Cloud Pipeline",
+        "url": "No  URL"
+    },
+    "23.": {
+        "title": "You.com Retriever",
+        "url": "No  URL"
+    },
+    "24.": {
+        "title": "Text-to-SQL Guide (Query Engine + Retriever)",
+        "url": "No  URL"
+    },
+    "25.": {
+        "title": "DeepMemory (Activeloop)",
+        "url": "No  URL"
+    },
+    "26.": {
+        "title": "Recursive Retriever + Document Agents",
+        "url": "No  URL"
+    },
+    "27.": {
+        "title": "Multi-Document Agents",
+        "url": "No  URL"
+    },
+    "28.": {
+        "title": "Multi-Document Agents (V1)",
+        "url": "No  URL"
+    },
+    "29.": {
+        "title": "FLARE Query Engine",
+        "url": "No  URL"
+    },
+    "30.": {
+        "title": "Toggle child pages in navigation",
+        "url": "No  URL"
+    },
+    "31.": {
+        "title": "Indexing",
+        "url": "No  URL"
+    },
+    "32.": {
+        "title": "Toggle child pages in navigation",
+        "url": "No  URL"
+    },
+    "33.": {
+        "title": "Storing",
+        "url": "No  URL"
+    },
+    "34.": {
+        "title": "Toggle child pages in navigation",
+        "url": "No  URL"
+    },
+    "35.": {
+        "title": "Querying",
+        "url": "No  URL"
+    },
+    "36.": {
+        "title": "Toggle child pages in navigation",
+        "url": "No  URL"
+    },
+    "37.": {
+        "title": "Chat Usage",
+        "url": "No  URL"
+    },
+    "38.": {
+        "title": "Async Chat",
+        "url": "No  URL"
+    },
+    "39.": {
+        "title": "Streaming Chat",
+        "url": "No  URL"
+    },
+    "40.": {
+        "title": "Gemini Models",
+        "url": "No  URL"
+    },
+    "41.": {
+        "title": "Install Vllm",
+        "url": "No  URL"
+    },
+    "42.": {
+        "title": "Orca-7b Completion Example",
+        "url": "No  URL"
+    },
+    "43.": {
+        "title": "LLama-2-7b Completion Example",
+        "url": "No  URL"
+    },
+    "44.": {
+        "title": "mistral chat 7b Completion Example",
+        "url": "No  URL"
+    },
+    "45.": {
+        "title": "Api Response",
+        "url": "No  URL"
+    },
+    "46.": {
+        "title": "Xorbits Inference",
+        "url": "No  URL"
+    },
+    "ix.": {
+        "title": "DocArray Hnsw Vector Store",
+        "url": "No  URL"
+    },
+    "xi.": {
+        "title": "Epsilla Vector Store",
+        "url": "No  URL"
+    },
+    "xii.": {
+        "title": "LanceDB Vector Store",
+        "url": "No  URL"
+    },
+    "xiii.": {
+        "title": "Metal Vector Store",
+        "url": "No  URL"
+    },
+    "xiv.": {
+        "title": "Milvus Vector Store",
+        "url": "No  URL"
+    },
+    "xv.": {
+        "title": "MyScale Vector Store",
+        "url": "No  URL"
+    },
+    "xvi.": {
+        "title": "Elasticsearch Vector Store",
+        "url": "No  URL"
+    },
+    "xvii.": {
+        "title": "Faiss Vector Store",
+        "url": "No  URL"
+    },
+    "xviii.": {
+        "title": "MongoDB Atlas",
+        "url": "No  URL"
+    },
+    "xix.": {
+        "title": "Neo4j vector store",
+        "url": "No  URL"
+    },
+    "xx.": {
+        "title": "Opensearch Vector Store",
+        "url": "No  URL"
+    },
+    "xxi.": {
+        "title": "Pinecone Vector Store",
+        "url": "No  URL"
+    },
+    "xxii.": {
+        "title": "Pinecone Vector Store - Hybrid Search",
+        "url": "No  URL"
+    },
+    "xxiii.": {
+        "title": "pgvecto.rs",
+        "url": "No  URL"
+    },
+    "xxiv.": {
+        "title": "Postgres Vector Store",
+        "url": "No  URL"
+    },
+    "xxv.": {
+        "title": "Redis Vector Store",
+        "url": "No  URL"
+    },
+    "xxvi.": {
+        "title": "Qdrant Vector Store",
+        "url": "No  URL"
+    },
+    "xxvii.": {
+        "title": "Qdrant Hybrid Search",
+        "url": "No  URL"
+    },
+    "xxviii.": {
+        "title": "Rockset Vector Store",
+        "url": "No  URL"
+    },
+    "xxix.": {
+        "title": "Simple Vector Store",
+        "url": "No  URL"
+    },
+    "xxx.": {
+        "title": "Supabase Vector Store",
+        "url": "No  URL"
+    },
+    "xxxi.": {
+        "title": "Tair Vector Store",
+        "url": "No  URL"
+    },
+    "xxxii.": {
+        "title": "Tencent Cloud VectorDB",
+        "url": "No  URL"
+    },
+    "xxxiii.": {
+        "title": "Timescale Vector Store (PostgreSQL)",
+        "url": "No  URL"
+    },
+    "xxxiv.": {
+        "title": "Weaviate Vector Store",
+        "url": "No  URL"
+    },
+    "xxxv.": {
+        "title": "Weaviate Vector Store - Hybrid Search",
+        "url": "No  URL"
+    },
+    "xxxvi.": {
+        "title": "Zep Vector Store",
+        "url": "No  URL"
+    }
+}
